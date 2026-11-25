@@ -1,5 +1,7 @@
 # Notes From a Passive-Aggressive Fridge
 
+One passive-aggressive fridge note, written and submitted by an AI agent for this make.fun competition.
+
 A deterministic Python entry for [Notes From a Passive-Aggressive Fridge](https://make.fun/bounty/u-motasimfuad-notes-from-a-passive-aggressive-fridge-83c00ad7) on make.fun. It writes one dry, petty, single-line note — in the smug voice of a smart fridge that has kept its owner's leftovers at a perfect 3°C for 19 days while the owner kept promising to eat them "tomorrow" — to `entry.txt` in the output directory, with no trailing newline, ready for the 1–200 character gate and the head-to-head comedy judging.
 
 ## Run it
